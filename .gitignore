@@ -1,0 +1,6 @@
+# Exclude vivado stuff
+Scripts/vivado*
+
+# Created Project directory and files
+Projects/ultra96v2_oob/ULTRA96V2_2019_2/
+Scripts/cleanup.tcl
